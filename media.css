@@ -1,0 +1,1365 @@
+
+@media screen and (max-width: 1400px) {
+    /* hero part */
+    .hero{
+        height: 550px;
+    }
+
+    .hero::before{
+        height: 550px;
+    }
+
+    /* hero big heading */
+    .heading-1 {
+        font-size: 45px;
+    }
+    
+    /* hero small heading */
+    #hero-para {
+        top: 370px;
+        font-size: 12px;
+    }
+    
+    /* hero button heading */
+    #btn1 {
+        z-index: 2;
+        padding: 12px 25px;
+        font-size: 16px;
+        bottom: 150px;
+        letter-spacing: 1px;
+    }
+
+
+    /* first article big intro */
+    .intro-heading {
+        font-size: 35px;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    /* first article line */
+    .line {
+        width: 100%;
+        height: 10px;
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    
+    /* first article intro small para*/
+    #intro-para {
+        font-size: 12px;
+    }
+    
+    /* first article button */
+    #btn2 {
+        padding: 10px 30px;
+        font-size: 18px;
+    }
+
+    /* second article start */
+    .us {
+        width: 200px;
+        padding-top: 60px;
+        font-size: 40px;
+    }
+
+    /* line */
+    .line-about {
+        width: 110px;
+        margin: 30px 0 0 25px;
+    }
+
+    /* paragraph */ 
+    .para {
+        padding: 25px;
+    }
+    /* second article end */
+
+    /* fifth article start */
+    #customer {
+        font-size: 25px;
+        padding-left: 100px;
+    }
+
+    .customer-img {
+        left: 150px;
+    }
+
+    .customer-say {
+        padding: 50px 0 0 380px;
+    }
+    /* fifth article start */
+
+    /* sixth article start */
+    .team-img-name {
+        height: 300px;
+        gap: 20px;
+    }
+
+    .allex {
+        height: 280px;
+    }
+
+    .allex::before {
+        height: 280px;
+    }
+
+    #icon {
+        left: 50px;
+    }
+
+    #name {
+        top: 230px;
+    }
+
+    .nicolas {
+        height: 280px;
+    }
+
+    #fname {
+        margin-top: 230px;
+    }
+
+    .allice {
+        height: 280px;
+    }
+
+    .laura {
+        height: 280px;
+    }
+    /* sixth article end */
+
+    /* seventh article end */
+    .rain {
+        margin-bottom: 30px;
+    }
+
+    .intro-rain {
+        font-size: 37px;
+    }
+    /* seventh article end */
+}
+
+@media screen and (max-width: 1000px) {
+    /* hero part */
+    .hero {
+        height: 500px;
+    }
+
+    .hero::before {
+        height: 500px;
+    }
+
+    /* logo part */
+    #logo {
+        font-size: 35px;
+    }
+    
+    /* logo green circle part */
+    .circle {
+        height: 62px;
+        width: 62px;
+    }
+
+    /* site bar part*/
+    a {
+        margin: 5px;
+        font-size: 16px;
+        text-transform: uppercase;
+        color: white;
+    }
+
+    /* hero big heading */
+    .heading-1 {
+        font-size: 40px;
+        top: 200px;
+    }
+
+    /* hero small heading */
+    #hero-para {
+        top: 320px;
+        font-size: 10px;
+    }
+
+    /* hero button heading */
+    #btn1 {
+        bottom: 150px;
+    }
+
+    /* first article big intro */
+    .intro-heading {
+        font-size: 28px;
+        padding: 10px;
+    }
+    
+    /* first article line */
+    .line {
+        height: 10px;
+        font-size: 17px;
+        margin-bottom: 50px;
+    }
+    
+    /* first article intro small para*/
+    #intro-para {
+        font-size: 8px;
+    }
+    
+    /* first article button */
+    .sec-article {
+        margin: 40px 0;
+    }
+
+    #btn2 {
+        padding: 8px 25px;
+        font-size: 15px;
+    }
+
+    /* second article start */
+    .us {
+        width: 200px;
+        padding-top: 60px;
+        font-size: 40px;
+    }
+
+    /* line */
+    .line-about {
+        width: 110px;
+        margin: 30px 0 0 25px;
+    }
+
+    /* paragraph */ 
+    .para {
+        padding: 25px;
+        font-size: 13px;
+    }
+    /* second article end */
+
+    /* third & porfolio start */
+    .sitebar {
+        margin: 8px;
+    }
+
+    .portfolio-img {
+        height: 500px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        margin-bottom: 80px;
+    }
+    
+    /* first image */
+    .one {
+        height: 250px;
+    }
+    
+    .one::before {
+        height: 250px;
+    }
+
+    /* plus sign */
+    #plus {
+        margin-top: 100px;
+        font-size: 25px;
+    }
+
+    /* first image font */
+    #click {
+        margin-top: 200px;
+        padding-top: 15px;
+        font-size: 16px;
+    }
+
+    /* second image */
+    .two, .three, .four, .five, .six, .seven, .eight {
+        height: 250px;
+    }
+    /* third & porfolio end */
+
+    /* fifth article start */
+    .what-says {
+        width: 100%;
+        height: 350px;
+    }
+
+    #customer {
+        font-size: 30px;
+        padding-left: 50px;
+    }
+
+    .customer-img {
+        left: 100px;
+    }
+
+    .customer-say {
+        font-size: 14px;
+        padding: 35px 0 0 280px;
+    }
+    /* fifth article start */
+
+    /* sixth article start */
+    .team-img-name {    
+        height: 650px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .allex {
+        height: 300px;
+    }
+
+    .allex::before {
+        height: 300px;
+    }
+
+    #icon {
+        left: 160px;
+        font-size: 30px;
+    }
+
+    #name {
+        top: 250px;
+    }
+
+    .nicolas, .allice, .laura {
+        height: 300px;
+    }
+
+    #fname {
+        margin-top: 250px;
+    }
+    /* sixth article end */
+
+    /* seventh article end */
+    .rain {
+        height: 250px;
+    }
+    
+    .rain::before {
+        height: 250px;
+    }
+
+    .rain {
+        margin-bottom: 30px;
+    }
+
+    .intro-rain {
+        font-size: 30px;
+    }
+
+    #btn3 {
+        top: 160px;
+    }
+    /* seventh article end */
+
+    /* eighth article start */
+    .logo-services {
+        height: 60px;
+    }
+
+    #services {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    #six-icon {
+        height: 650px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        gap: 0;
+    }
+
+    #about {
+        font-size: 11px;
+    }
+    /* eighth article end */
+
+    /* nineth article */
+    #gray-para {
+        font-size: 22px;
+    }
+
+    /* footer part start */
+    .form-part {
+        height: 350px;
+    }
+
+    /* left side about */
+    .part1, .part2 {
+        padding: 80px 0px 0px 70px;
+    }
+
+    /* big font */
+    #foot-parabig {
+        font-size: 26px;
+    }
+
+    /* small font */
+    #foot-para {
+        font-size: 15px;
+    }
+
+    label {
+        font-size: 18px;
+    }
+
+    input[type="text"], textarea {
+        height: 25px;
+        width: 70%;
+    }
+
+    #btn4{
+        padding: 8px 35px;
+        font-size: 17px;
+        margin-top: 20px;
+    }
+
+    /* footer last part */
+    .left {
+        font-size: 20px;
+    }
+    .right::after {
+        font-size: 35px;
+    }
+    /* footer part end */
+}
+
+@media screen and (max-width: 800px) {
+    /* main hero img part */
+    .hero {
+        height: 450px;
+    }
+    
+    .hero::before {
+        height: 450px;
+    }
+
+    /* site bar part*/
+    .manu {
+        display: block;
+        margin: 25px;
+        font-size: 25px;
+        z-index: 2;
+    }
+
+    /* site bar part*/
+    a {
+        display: none;
+    }
+
+    /* hero big heading */
+    .heading-1 {
+        font-size: 32px;
+        top: 180px;
+    }
+
+    /* hero small heading */
+    #hero-para {
+        top: 270px;
+        font-size: 7px;
+    }
+
+    /* hero button heading */
+    #btn1 {
+        bottom: 170px;
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+
+    /* first article big intro */
+    .intro-heading {
+        font-size: 22px;
+        padding: 10px;
+    }
+    
+    /* first article line */
+    .line {
+        height: 10px;
+        font-size: 10px;
+        margin-bottom: 50px;
+    }
+    
+    /* first article intro small para*/
+    #intro-para {
+        font-size: 7px;
+    }
+    
+    /* first article button */
+    #btn2 {
+        padding: 6px 20px;
+        font-size: 12px;
+    }
+
+    /* second article start */
+    .sec-article{
+        height: 200px;
+    }
+
+    .us {
+        width: 200px;
+        padding-top: 60px;
+        font-size: 30px;
+    }
+
+    /* line */
+    .line-about {
+        width: 80px;
+        margin: 20px 0 0 45px;
+    }
+
+    /* paragraph */ 
+    .para {
+        padding: 25px;
+        font-size: 9px;
+    }
+    /* second article end */
+
+    /* third & porfolio start */
+    /* big logo part */
+    #port{
+        font-size: 35px;
+    }
+
+    /* logo line */
+    .line-port{ 
+        margin: 25px 0 0 18px;  
+    }
+
+    /* sitebar start */
+    /* site bar part*/
+    .manu2 {
+        display: none;
+    }
+
+    .portfolio-bar {
+        margin: 25px 0px 0 0;
+        display: flex;
+        width: 400px;
+    }
+
+    .sitebar {
+        display: flex;
+        margin: 10px;
+        padding-top: 10px;
+        font-size: 12px;
+    }
+    
+    #first {
+        padding: 8px;
+        background-color: rgb(32, 247, 150);
+        border-radius: 4px;
+    }
+
+    .portfolio-img {
+        height: 950px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        margin-bottom: 80px;
+    }
+    
+    /* first image */
+    .one {
+        height: 220px;
+    }
+    
+    .one::before {
+        height: 220px;
+    }
+
+    /* plus sign */
+    #plus {
+        margin-top: 80px;
+        font-size: 25px;
+    }
+
+    /* first image font */
+    #click {
+        margin-top: 170px;
+        padding-top: 15px;
+        font-size: 16px;
+    }
+
+    /* second image */
+    .two, .three, .four, .five, .six, .seven, .eight {
+        height: 220px;
+    }
+    /* third & porfolio end */
+
+    /* fifth article start */
+    .what-says {
+        height: 240px;
+        margin-top: 0px;
+    }
+
+    #customer {
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .customer-img {
+        height: 100px;
+        width: 100px;
+        left: 50px;
+        top: 30px;
+    }
+
+    .customer-say {
+        height: 100px;
+        font-size: 10px;
+        padding: 20px 0 0 200px;
+    }
+    /* fifth article start */
+
+    /* sixth article first img under icon */
+    #icon {
+        left: 120px;
+    }
+
+    /* seventh article end */
+     .rain {
+        height: 200px;
+    }
+    
+    .rain::before {
+        height: 200px;
+    }
+
+    .intro-rain {
+        font-size: 23px;
+    }
+
+    .rain-button {
+        width: 80%;
+    }
+
+    #btn3 {
+        top: 130px;
+    }
+    /* seventh article end */
+
+    /* eighth article start */
+    /* services logo */
+    .logo-services {
+        height: 50px;
+    }
+
+    #services {
+        font-size: 35px;
+    }
+    /* eighth article end */
+
+    /* nineth article */
+    .gray {
+        height: 120px;
+    }
+
+    #gray-para {
+        font-size: 17px;
+    }
+
+    /* footer part start */
+    .form-part {
+        height: 300px;
+    }
+
+    /* left side about */
+    .part1, .part2 {
+        padding: 50px 0px 0px 40px;
+    }
+
+    /* big font */
+    #foot-parabig {
+        font-size: 22px;
+    }
+
+    /* small font */
+    #foot-para {
+        font-size: 12px;
+        letter-spacing: 0;
+    }
+
+    label {
+        font-size: 15px;
+    }
+
+    input[type="text"], textarea {
+        height: 17px;
+        width: 70%;
+    }
+
+    #btn4{
+        padding: 6px 25px;
+        font-size: 15px;
+        margin-top: 15px;
+    }
+
+    /* footer last part */
+    .last {
+        height: 35px;
+        padding: 2px 80px;
+    }
+
+    .left {
+        font-size: 15px;
+    }
+    .right::after {
+        font-size: 25px;
+    }
+    /* footer part end */
+}
+
+@media screen and (max-width: 600px) {
+    /* main hero img part */
+    .hero {
+        height: 380px;
+    }
+    
+    .hero::before {
+        height: 380px;
+    }
+
+    /* logo part */
+    #logo {
+        font-size: 28px;
+    }
+    
+    /* logo green circle part */
+    .circle {
+        height: 50px;
+        width: 50px;
+    }
+
+    /* site bar part*/
+    .manu {
+        display: block;
+        margin: 25px;
+        font-size: 25px;
+        z-index: 2;
+    }
+
+    /* hero big heading */
+    .heading-1 {
+        width: 94%;
+        font-size: 22px;
+        top: 150px;
+    }
+
+    /* hero small heading */
+    #hero-para {
+        width: 94%;
+        top: 220px;
+        font-size: 5px;
+    }
+
+    /* hero button heading */
+    #btn1 {
+        bottom: 150px;
+        padding: 7px 12px;
+        font-size: 11px;
+        left: 0px;
+    }
+
+    /* first article big intro */
+    .intro-heading {
+        font-size: 20px;
+        padding: 10px;
+    }
+    
+    /* first article line */
+    .line {
+        height: 10px;
+        font-size: 10px;
+        margin-bottom: 30px;
+    }
+    
+    /* first article intro small para*/
+    #intro-para {
+        font-size: 6px;
+    }
+    
+    /* first article button */
+    #btn2 {
+        padding: 6px 18px;
+        font-size: 8px;
+        border-radius: 3px;
+    }
+
+    
+     /* second article start */
+    .sec-article{
+        height: 160px;
+    }
+    
+    .us {
+        width: 170px;
+        padding-top: 35px;
+        font-size: 25px;
+    }
+
+    /* line */
+    .line-about {
+        width: 80px;
+        margin: 10px 0 0 38px;
+    }
+
+    /* paragraph */ 
+    .para {
+        padding: 25px;
+        font-size: 6px;
+    }
+    /* second article end */
+
+    /* third & porfolio start */
+    /* big logo part */
+    #port{
+        width: 100%;
+        font-size: 30px;
+    }
+
+    /* logo line */
+    .line-port{ 
+        margin: 20px 0 0 18px;  
+    }
+
+    /* sitebar start */
+    .manu2 {
+        display: block;
+        font-size: 20px;
+        width: 30%;
+        padding: 0 40px;
+    }
+
+    /* sitebar start */
+    .portfolio-bar {
+        width: 30%;
+    }
+    .sitebar {
+        display: none;
+    }
+    
+    #first {
+        padding: 8px;
+        background-color: rgb(32, 247, 150);
+        border-radius: 4px;
+    }
+    
+    /* first image */
+    .one {
+        height: 220px;
+    }
+    
+    .one::before {
+        height: 220px;
+    }
+
+    /* plus sign */
+    #plus {
+        margin-top: 80px;
+        font-size: 25px;
+    }
+
+    /* first image font */
+    #click {
+        margin-top: 170px;
+        padding-top: 15px;
+        font-size: 16px;
+    }
+
+    /* second image */
+    .two, .three, .four, .five, .six, .seven, .eight {
+        height: 220px;
+    }
+    /* third & porfolio end */
+
+    /* fifth article start */
+    .what-says {
+        height: 230px;
+        margin-top: 0px;
+    }
+
+    #customer {
+        font-size: 18px;
+        padding-left: 20px;
+    }
+
+    .customer-img {
+        height: 100px;
+        width: 100px;
+        left: 30px;
+        top: 30px;
+    }
+
+    .big {
+        font-size: 12px;
+    }
+
+    .customer-say {
+        height: 100px;
+        font-size: 12px;
+        padding: 20px 0 0 160px;
+    }
+    /* fifth article start */
+
+    /* sixth article first img under icon */
+    #icon {
+        left: 70px;
+    }
+
+    /* seventh article end */
+    .rain {
+        height: 180px;
+    }
+    
+    .rain::before {
+        height: 180px;
+    }
+
+    .intro-rain {
+        font-size: 16px;
+    }
+
+    .rain-button {
+        width: 80%;
+    }
+
+    #btn3 {
+        padding: 8px 15px;
+        font-size: 14px;
+        top: 110px;
+    }
+    /* seventh article end */
+
+    /* eighth article start */
+    /* services logo */
+    #services {
+        font-size: 30px;
+    }
+
+    .line-services {
+        width: 80px;
+    }
+
+    .mechine {
+        font-size: 50px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    /* eighth article end */
+
+    /* nineth article */
+    .gray {
+        height: 90px;
+    }
+
+    #gray-para {
+        padding-top: 20px;
+        font-size: 12px;
+    }
+
+    /* nineth article */
+    .gray {
+        height: 120px;
+    }
+
+    #gray-para {
+        font-size: 17px;
+    }
+
+    /* footer part start */
+    /* cont. logo */
+    #cont {
+        font-size: 35px;
+    }
+
+    .form-part {
+        height: 400px;
+        display: block;
+    }
+
+    /* left side about */
+    .part1 {
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .part2 {
+        text-align: center;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+
+    /* big font */
+    #foot-parabig {
+        font-size: 20px;
+    }
+
+    /* small font */
+    #foot-para {
+        font-size: 8px;
+    }
+
+    label {
+        font-size: 10px;
+        color: black;
+    }
+
+    input[type="text"], textarea {
+        height: 17px;
+        width: 40%;
+    }
+
+    #btn4{
+        padding: 4px 20px;
+        font-size: 10px;
+        margin-top: 15px;
+    }
+
+    /* footer last part */
+    .last {
+        height: 25px;
+        padding: 2px 80px;
+    }
+
+    .left {
+        font-size: 10px;
+    }
+    .right::after {
+        font-size: 18px;
+    }
+    /* footer part end */
+}
+
+@media screen and (max-width: 450px) {
+    header {
+        padding-bottom: 0;
+    }
+    /* main hero img part */
+    .hero {
+        height: 350px;
+    }
+    
+    .hero::before {
+        height: 350px;
+    }
+
+    /* logo part */
+    #logo {
+        font-size: 22px;
+    }
+    
+    /* logo green circle part */
+    .circle {
+        height: 42px;
+        width: 42px;
+        top: 22px;
+    }
+
+    /* site bar part*/
+    .manu {
+        display: block;
+        padding: 25px;
+        font-size: 25px;
+        z-index: 2;
+    }
+
+    /* hero big heading */
+    .heading-1 {
+        width: 92%;
+        font-size: 18px;
+        top: 140px;
+    }
+
+    /* hero small heading */
+    #hero-para {
+        width: 92%;
+        top: 200px;
+        font-size: 5px;
+    }
+
+    /* hero button heading */
+    #btn1 {
+        bottom: 140px;
+        padding: 4px 8px;
+        font-size: 6px;
+        left: 0px;
+        letter-spacing: 0;
+        border-radius: 3px;
+    }
+
+    
+    /* first article big intro */
+    .intro-heading {
+        font-size: 12px;
+        padding: 10px;
+    }
+    
+    /* first article line */
+    .line {
+        height: 10px;
+        font-size: 4px;
+        margin-bottom: 15px;
+    }
+    
+    /* first article intro small para*/
+    #intro-para {
+        font-size: 4px;
+    }
+    
+    /* first article button */
+    #btn2 {
+        padding: 4px 15px;
+        font-size: 5px;
+        border-radius: 3px;
+    }
+
+    /* second article start */
+    .sec-article {
+        height: 110px;
+        display: block;
+    }
+
+    .us {
+        padding: 10px 5px 0 0px;
+        font-size: 16px;
+    }
+
+    /* line */
+    .line-about {
+        width: 35px;
+        height: 1px;
+        margin: 5px 0 0 50px;
+    }
+
+    /* paragraph */ 
+    .para {
+        padding: 10px 50px;
+        font-size: 4px;
+    }
+    /* second article end */
+
+    /* third & porfolio start */
+    /* big logo part */
+    #port{
+        font-size: 25px;
+    }
+
+    /* logo line */
+    .line-port{ 
+        margin: 15px 0 0 18px;  
+    }
+
+    .portfolio-img {
+        height: 1950px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        margin-bottom: 80px;
+    }
+    /* third & porfolio end */
+
+    /* fifth article start */
+    .what-says {
+        height: 250px;
+        margin-top: 0px;
+    }
+
+    #customer {
+        font-size: 20px;
+        padding-left: 50px;
+    }
+
+    .customer-img {
+        height: 120px;
+        width: 120px;
+        left: 80px;
+        top: 30px;
+    }
+
+    .big {
+        font-size: 14px;
+    }
+
+    .customer-say {
+        height: 100px;
+        font-size: 9px;
+        padding: 30px 0 0 30px;
+    }
+    /* fifth article start */
+
+    
+    /* sixth article start */
+    .team-img-name {    
+        height: 1350px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        gap: 6px;
+    }
+
+    .allex {
+        height: 320px;
+    }
+
+    .allex::before {
+        height: 320px;
+    }
+
+    #icon {
+        left: 130px;
+        font-size: 35px;
+    }
+
+    #name {
+        height: 65px;
+        font-size: 25px;
+        top: 255px;
+    }
+
+    .nicolas {
+        height: 320px;
+    }
+
+    #fname {       
+        height: 65px;
+        font-size: 25px;
+        margin-top: 255px;
+    }
+
+    .allice {
+        height: 320px;
+    }
+
+    .laura {
+        height: 320px;
+    }
+    /* sixth article end */
+
+    /* seventh article end */
+    .rain {
+        height: 140px;
+    }
+    
+    .rain::before {
+        height: 140px;
+    }
+
+    .intro-rain {
+        font-size: 12px;
+    }
+
+    .rain-button {
+        width: 70%;
+    }
+
+    #btn3 {
+        padding: 8px 15px;
+        font-size: 12px;
+        top: 90px;
+    }
+    /* seventh article end */
+
+    /* eighth article start */
+    /* services logo */
+    .logo-services {
+        height: 50px;
+    }
+
+    #services {
+        font-size: 25px;
+        margin: 20px;
+    }
+
+    .line-services {
+        width: 90px;
+        margin-left: 25px;
+    }
+
+    #six-icon {
+        height: 1100px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        gap: 10px;
+        margin: 20px 40px;
+    }
+
+    .mechine {
+        font-size: 50px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    /* eighth article end */
+
+    /* nineth article */
+    .gray {
+        height: 70px;
+    }
+
+    #gray-para {
+        padding-top: 20px;
+        font-size: 8px;
+    }
+
+    /* footer part start */
+    /* cont. logo */
+    #cont {
+        font-size: 30px;
+    }
+
+    .form-part {
+        height: 300px;
+        display: block;
+    }
+
+    /* left side about */
+    .part1 {
+        padding-top: 10px;
+    }
+
+    .part2 {
+        padding-top: 10px;
+    }
+
+    /* big font */
+    #foot-parabig {
+        font-size: 16px;
+    }
+
+    /* small font */
+    #foot-para {
+        padding-top: 5px;
+        font-size: 6px;
+    }
+
+    label {
+        font-size: 8px;
+    }
+
+    input[type="text"], textarea {
+        height: 10px;
+        width: 30%;
+    }
+
+    #btn4{
+        padding: 4px 18px;
+        font-size: 7px;
+        margin-top: 10px;
+        border-radius: 5px;
+    }
+
+    /* footer last part */
+    .last {
+        height: 20px;
+        padding: 2px 20px;
+    }
+
+    .left {
+        padding: 0;
+        font-size: 8px;
+    }
+    .right::after {
+        padding: 0;
+        font-size: 14px;
+    }
+    /* footer part end */
+}
